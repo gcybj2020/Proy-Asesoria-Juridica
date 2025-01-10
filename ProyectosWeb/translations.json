@@ -1,0 +1,37 @@
+{
+  "es": {
+    "navbar-brand": "Asesoría Legal",
+    "inicio": "Inicio",
+    "somos": "Somos Asesores Legales",
+    "descripcion": "Si has llegado hasta aquí es porque tienes dudas sobre qué es asesoría legal y es probable que, además, tengas un negocio o estés pensando en emprender. En cualquier caso, contar con esta asesoría jurídica puede salvarte de muchas y en este post te contaré las principales ventajas del asesoramiento lega La asesoría legal se puede tomar antes de una decisión importante y, a menudo, obtendrás orientación sobre cómo proceder con un problema.Sin duda, el asesoramiento legal te puede ayudar a tomar mejores decisiones y evitar cometer errores que podrían generar inconvenientes más adelante. Un buen abogado le explicará claramente el mejor camino a seguir en función de tus circunstancias, lo que te permitirá comprender cuáles deben ser tus próximas acciones. Esto te ayuda a evitar resultados que atenten injustamente tus derechos. Por tanto, antes de actuar legalmente es importante escuchar las recomendaciones de un abogado. Es un profesional que siempre se esforzará por resolver el caso en tu beneficio",
+    "areas-legales": "Áreas Legales Cubiertas",
+    "derecho-civil": "Derecho Civil",
+    "derecho-penal": "Derecho Penal",
+    "derecho-laboral": "Derecho Laboral",
+    "derecho-familiar": "Derecho Familiar",
+    "asesoria-corporativa": "Asesoría Corporativa",
+	"beneficios1":"TOMAR MEJORES DECISIONES.- La asesoría legal puede ayudar a tomar decisiones acertadas y evitar errores que puedan causar problemas",
+	"beneficios2":"CUMPLIR CON LA NORMATIVA.- Un asesor legal puede ayudar a entender y cumplir con las leyes y regulaciones pertinentes, evitando multas y sanciones ",
+	"beneficios3":"PROTEGER ACTIVOS Y REPUTACIÓN.- Un asesor legal puede ayudar a identificar y mitigar los riesgos legales, protegiendo los activos y la reputación de la empresa ",
+	"beneficios4":"RESOLVER CONFLICTOS Y DISPUTAS.- Un asesor legal puede ayudar a resolver conflictos y disputas legales de manera rápida y eficiente",
+	"beneficios5":"PLANIFICACIÓN ESTRATÉGICA.- La asesoría legal puede ayudar a prevenir problemas legales, en lugar de solo resolverlos cuando surgen "
+	
+  },
+  "en": {
+    "navbar-brand": "Legal Advice",
+    "inicio": "Home",
+    "somos": "We are Legal Advisors",
+    "descripcion": "If you have come this far, it is because you have doubts about what legal advice is and it is likely that you also have a business or are thinking of starting one. In any case, having this legal advice can save you from many and in this post I will tell you the main advantages of legal advice. Legal advice can be taken before an important decision and you will often get guidance on how to proceed with a problem. Without a doubt, legal advice can help you make better decisions and avoid making mistakes that could cause problems later. A good lawyer will clearly explain the best path to follow based on your circumstances, allowing you to understand what your next actions should be. This helps you avoid results that unfairly violate your rights. Therefore, before acting legally it is important to listen to the recommendations of a lawyer. He is a professional who will always strive to resolve the case to your benefit.",
+    "areas-legales": "Covered Legal Areas",
+    "derecho-civil": "Civil Law",
+    "derecho-penal": "Criminal Law",
+    "derecho-laboral": "Labor Law",
+    "derecho-familiar": "Family Law",
+	"asesoria-corporativa": "Corporate Advice",
+	"beneficios1":"MAKE BETTER DECISIONS.- Legal advice can help you make good decisions and avoid mistakes that can cause problems",
+	"beneficios2":"COMPLY WITH REGULATIONS.- A legal advisor can help you understand and comply with relevant laws and regulations, avoiding fines and penalties",
+	"beneficios3":"PROTECT ASSETS AND REPUTATION.- A legal advisor can help you identify and mitigate legal risks, protecting your company's assets and reputation",
+	"beneficios4":"RESOLVING CONFLICTS AND DISPUTES.- A legal advisor can help resolve legal conflicts and disputes quickly and efficiently",
+	"beneficios5":"STRATEGIC PLANNING.- Legal advice can help prevent legal problems, rather than just resolving them when they arise"
+  }
+}

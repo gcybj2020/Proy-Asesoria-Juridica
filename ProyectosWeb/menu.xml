@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>index.html</link>
+    </item>
+    <item>
+        <nombre>solicitar asesoria</nombre>
+        <link>solasesoria.html</link>
+    </item>
+    <item>
+        <nombre>Abogados disponibles</nombre>
+        <link>abogados.html</link>
+    </item>
+    <item>
+        <nombre>Planes y Tarifas</nombre>
+        <link>planes12.html</link>
+    </item>
+	<item>
+        <nombre>Recursos Legales</nombre>
+        <link>recurlegal.html</link>
+    </item>
+	<item>
+        <nombre>Estadisticas y Casos</nombre>
+        <link>estadCasos.html</link>
+    </item>
+	<item>
+        <nombre>FAQ y Ayuda</nombre>
+        <link>faqAyuda.html</link>
+    </item>
+	<item>
+        <nombre>Contacto y Soporte</nombre>
+        <link>tailwind-Contacto.html</link>
+    </item>
+</menu>
